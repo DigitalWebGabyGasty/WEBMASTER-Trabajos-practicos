@@ -1,0 +1,8 @@
+Pan 
+Carne 
+Huevos
+Leche
+Frutillas
+Banana
+Manzana
+Verduras
